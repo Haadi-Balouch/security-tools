@@ -24,22 +24,22 @@ or on TryHackMe — not from copying documentation.
 ### 🔵 Network Analysis
 | Tool | What It Does | Notes |
 |---|---|---|
-| [Wireshark](network-analysis/wireshark.md) | GUI packet capture and analysis | Used for traffic inspection during attack simulations |
-| [Nmap / Zenmap](./network-analysis/nmap-zenmap.md) | Network scanning and service enumeration | Used for recon against Metasploitable |
-| [Tcpdump](./network-analysis/tcpdump.md) | CLI packet capture | Used to generate `.pcap` files for Wireshark analysis |
+| [Wireshark](./Network-Analysis-Recon/wireshark.md) | GUI packet capture and analysis | Used for traffic inspection during attack simulations |
+| [Nmap / Zenmap](./Network-Analysis-Recon/nmap-zenmap.md) | Network scanning and service enumeration | Used for recon against Metasploitable |
+| [Tcpdump](./Network-Analysis-Recon/tcpdump.md) | CLI packet capture | Used to generate `.pcap` files for Wireshark analysis |
 
 ### 🟣 SIEM Platforms
 | Tool | What It Does | Notes |
 |---|---|---|
-| [Splunk](./siem-platforms/splunk.md) | Log ingestion, search, detection, dashboards | Primary SIEM in home lab |
-| [Elastic / ELK Stack](./siem-platforms/elastic-elk.md) | Log analysis, Kibana dashboards | Used via TryHackMe rooms |
+| [Splunk](./SIEM-Log-Analysis/splunk.md) | Log ingestion, search, detection, dashboards | Primary SIEM in home lab |
+| [Elastic / ELK Stack](./SIEM-Log-Analysis/elastic-elk.md) | Log analysis, Kibana dashboards | Used via TryHackMe rooms |
 
 ### 🔴 Offensive Tools — Lab Use Only
 | Tool | What It Does | Notes |
 |---|---|---|
-| [Metasploit](./offensive-tools-lab/metasploit.md) | Exploitation framework | Used against Metasploitable 2 in isolated lab |
-| [SQLmap](./offensive-tools-lab/sqlmap.md) | Automated SQL injection testing | Used against Metasploitable web apps |
-| [Burp Suite](./offensive-tools-lab/burpsuite.md) | HTTP proxy and web app testing | Used for intercepting and analyzing web traffic |
+| [Metasploit](./Offensive-Security/metasploit.md) | Exploitation framework | Used against Metasploitable 2 in isolated lab |
+| [SQLmap](./Offensive-Security/sqlmap.md) | Automated SQL injection testing | Used against Metasploitable web apps |
+| [Burp Suite](./Offensive-Security/burpsuite.md) | HTTP proxy and web app testing | Used for intercepting and analyzing web traffic |
 
 ---
 
