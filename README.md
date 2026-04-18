@@ -24,7 +24,7 @@ or on TryHackMe — not from copying documentation.
 ### 🔵 Network Analysis
 | Tool | What It Does | Notes |
 |---|---|---|
-| [Wireshark](./network-analysis/wireshark.md) | GUI packet capture and analysis | Used for traffic inspection during attack simulations |
+| [Wireshark](network-analysis/wireshark.md) | GUI packet capture and analysis | Used for traffic inspection during attack simulations |
 | [Nmap / Zenmap](./network-analysis/nmap-zenmap.md) | Network scanning and service enumeration | Used for recon against Metasploitable |
 | [Tcpdump](./network-analysis/tcpdump.md) | CLI packet capture | Used to generate `.pcap` files for Wireshark analysis |
 
